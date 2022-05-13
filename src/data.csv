@@ -1,3 +1,5 @@
-email,fname,lname,birthday
-hieuzzzz@gmail.com,Hieu,Ne,11/01/1992
-hieu22@gmail.com,Hieu,Day,11/01/1999
+email_address,fname,lname,phone,birthday
+hang.tran@ematicsolutions.com,Hang,Tran,099999999,01/02
+hai.ta@ematicsolutions.com,Hai,Ta,088888888,02/03
+ryan.ramadhan@ematicsolutions.com,Ryan,Ramadhan,077777777,03/04
+doubletranchau@gmail.com,Tran,Chau,011111111,04/05

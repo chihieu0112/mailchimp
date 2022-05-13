@@ -1,14 +1,30 @@
 [
  {
-  "email": "hieuzzzz@gmail.com",
-  "fname": "Hieu",
-  "lname": "Ne",
-  "birthday": "11/01/1992"
+  "email_address": "hang.tran@ematicsolutions.com",
+  "fname": "Hang",
+  "lname": "Tran",
+  "phone": "099999999",
+  "birthday": "01/02"
  },
  {
-  "email": "hieu22@gmail.com",
-  "fname": "Hieu",
-  "lname": "Day",
-  "birthday": "11/01/1999"
+  "email_address": "hai.ta@ematicsolutions.com",
+  "fname": "Hai",
+  "lname": "Ta",
+  "phone": "088888888",
+  "birthday": "02/03"
+ },
+ {
+  "email_address": "ryan.ramadhan@ematicsolutions.com",
+  "fname": "Ryan",
+  "lname": "Ramadhan",
+  "phone": "077777777",
+  "birthday": "03/04"
+ },
+ {
+  "email_address": "doubletranchau@gmail.com",
+  "fname": "Tran",
+  "lname": "Chau",
+  "phone": "011111111",
+  "birthday": "04/05"
  }
 ]
